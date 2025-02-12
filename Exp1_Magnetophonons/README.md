@@ -1,2 +1,3 @@
-Place all your test runs in  the "test_data" folder and run the ipynb script.
-This should do 90% of the data analysis for you but you may need to modify some fitting parameters.
+- Place all your test runs in  the "test_data" folder and run the ipynb script.
+- This should do 90% of the data analysis for you, but you may need to modify some fitting parameters.
+- Also make sure to rename your columns in your data to something like Field_Plot_1, Voltage_Plot_1 (I wrote some of the naming with this in mind)
